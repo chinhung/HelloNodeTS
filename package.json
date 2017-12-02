@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^8.0.53",
     "ts-loader": "^3.2.0",
     "typescript": "^2.6.2",
     "webpack": "^3.9.1"
